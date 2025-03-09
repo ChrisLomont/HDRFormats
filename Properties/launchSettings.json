@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HDRFormat": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\"
+    }
+  }
+}
